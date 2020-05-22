@@ -9,5 +9,20 @@
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000
+  },
+  {
+    "id_product": 789,
+    "product_name": "Клавиатура",
+    "price": 1200
+  },
+  {
+    "id_product": 147,
+    "product_name": "Монитор",
+    "price": 12500
+  },
+  {
+    "id_product": 258,
+    "product_name": "Пиво",
+    "price": 150
   }
 ]
