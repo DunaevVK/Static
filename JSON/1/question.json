@@ -1,50 +1,72 @@
 [
     {
-        "productName":"MANGO PEOPLE T-SHIRT",
-        "productPrice":52,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
-        "productId":"prod_0"
+        "questionName":"Вопрос номер 1",
+        "answer1":"Ответ 1 на вопрос 1",
+        "answer2":"Ответ 2 на вопрос 1",
+        "answer3":"Ответ 3 на вопрос 1",
+        "answer4":"Ответ 4 на вопрос 1"
     },
     {
-        "productName":"BANANA PEOPLE T-SHIRT",
-        "productPrice":53,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
-        "productId":"prod_1"
+        "questionName":"Вопрос номер 2",
+        "answer1":"Ответ 1 на вопрос 2",
+        "answer2":"Ответ 2 на вопрос 2",
+        "answer3":"Ответ 3 на вопрос 2",
+        "answer4":"Ответ 4 на вопрос 2"
     },
     {
-        "productName":"STRAWBERRY PEOPLE T-SHIRT",
-        "productPrice":55,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem3.jpg",
-        "productId":"prod_2"
+       "questionName":"Вопрос номер 3",
+        "answer1":"Ответ 1 на вопрос 3",
+        "answer2":"Ответ 2 на вопрос 3",
+        "answer3":"Ответ 3 на вопрос 3",
+        "answer4":"Ответ 4 на вопрос 3"
     },
     {
-        "productName":"ORANGE PEOPLE T-SHIRT",
-        "productPrice":67,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
-        "productId":"prod_3"
+        "questionName":"Вопрос номер 4",
+        "answer1":"Ответ 1 на вопрос 4",
+        "answer2":"Ответ 2 на вопрос 4",
+        "answer3":"Ответ 3 на вопрос 4",
+        "answer4":"Ответ 4 на вопрос 4"
     },
     {
-        "productName":"PUMKIN PEOPLE T-SHIRT",
-        "productPrice":69,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
-        "productId":"prod_4"
+        "questionName":"Вопрос номер 5",
+        "answer1":"Ответ 1 на вопрос 5",
+        "answer2":"Ответ 2 на вопрос 5",
+        "answer3":"Ответ 3 на вопрос 5",
+        "answer4":"Ответ 4 на вопрос 5"
     },
     {
-        "productName":"PINEAPPLE PEOPLE T-SHIRT",
-        "productPrice":94,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem6.jpg",
-        "productId":"prod_5"
+        "questionName":"Вопрос номер 6",
+        "answer1":"Ответ 1 на вопрос 6",
+        "answer2":"Ответ 2 на вопрос 6",
+        "answer3":"Ответ 3 на вопрос 6",
+        "answer4":"Ответ 4 на вопрос 6"
     },
     {
-        "productName":"CUCUMBER PEOPLE T-SHIRT",
-        "productPrice":23,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem7.jpg",
-        "productId":"prod_6"
+       "questionName":"Вопрос номер 7",
+        "answer1":"Ответ 1 на вопрос 7",
+        "answer2":"Ответ 2 на вопрос 7",
+        "answer3":"Ответ 3 на вопрос 7",
+        "answer4":"Ответ 4 на вопрос 7"
     },
     {
-        "productName":"TOMATO PEOPLE T-SHIRT",
-        "productPrice":45,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem8.jpg",
-        "productId":"prod_7"
+        "questionName":"Вопрос номер 8",
+        "answer1":"Ответ 1 на вопрос 8",
+        "answer2":"Ответ 2 на вопрос 8",
+        "answer3":"Ответ 3 на вопрос 8",
+        "answer4":"Ответ 4 на вопрос 8"
+    },
+    {
+       "questionName":"Вопрос номер 9",
+        "answer1":"Ответ 1 на вопрос 9",
+        "answer2":"Ответ 2 на вопрос 9",
+        "answer3":"Ответ 3 на вопрос 9",
+        "answer4":"Ответ 4 на вопрос 9"
+    },
+    {
+       "questionName":"Вопрос номер 10",
+        "answer1":"Ответ 1 на вопрос 10",
+        "answer2":"Ответ 2 на вопрос 10",
+        "answer3":"Ответ 3 на вопрос 10",
+        "answer4":"Ответ 4 на вопрос 10"
     }
 ]
