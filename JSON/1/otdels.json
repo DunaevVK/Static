@@ -1,4 +1,4 @@
-[
+{
   "otdels": [
     {
         "otdelName":"1_Otdel_1"
@@ -10,4 +10,4 @@
         "otdelName":"3_Otdel_3"
     }
   ]
-]
+}
