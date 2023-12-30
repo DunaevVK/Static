@@ -15,10 +15,10 @@
     },
     {
         "itemTitle":"Товар3",
-        "itemPrice":"Цена_Товара_3",
+        "itemPrice":"7 000",
         "itemPriceNew":"Цена_Товара_3_New",
-        "itemDescription":"Описание_Товара_3",
-        "itemDescription2": "Описание2_Товара_3"
+        "itemDescription":"3 часть товара",
+        "itemDescription2": ""
     },
     {
         "itemTitle":"Товар4",
