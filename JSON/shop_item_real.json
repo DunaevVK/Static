@@ -1,0 +1,58 @@
+[
+    {
+        "itemTitle":"Товар1",
+        "itemPrice":"20 000",
+        "itemPriceNew":"Цена_Товара_1_New",
+        "itemDescription":"Самый лучший наш товар",
+        "itemDescription2": "100% товара"
+    },
+    {
+        "itemTitle":"Товар2",
+        "itemPrice":"10 000",
+        "itemPriceNew":"Цена_Товара_2_New",
+        "itemDescription":"Половина лучшего товара",
+        "itemDescription2": "50% товара"
+    },
+    {
+        "itemTitle":"Товар3",
+        "itemPrice":"Цена_Товара_3",
+        "itemPriceNew":"Цена_Товара_3_New",
+        "itemDescription":"Описание_Товара_3",
+        "itemDescription2": "Описание2_Товара_3"
+    },
+    {
+        "itemTitle":"Товар4",
+        "itemPrice":"Цена_Товара_4",
+        "itemPriceNew":"Цена_Товара_4_New",
+        "itemDescription":"Описание_Товара_4",
+        "itemDescription2": "Описание2_Товара_4"
+    },
+    {
+        "itemTitle":"Товар5",
+        "itemPrice":"Цена_Товара_5",
+        "itemPriceNew":"Цена_Товара_5_New",
+        "itemDescription":"Описание_Товара_5",
+        "itemDescription2": "Описание2_Товара_5"
+    },
+    {
+        "itemTitle":"Товар6",
+        "itemPrice":"Цена_Товара_6",
+        "itemPriceNew":"Цена_Товара_6_New",
+        "itemDescription":"Описание_Товара_6",
+        "itemDescription2": "Описание2_Товара_6"
+    },
+    {
+        "itemTitle":"Товар7",
+        "itemPrice":"Цена_Товара_7",
+        "itemPriceNew":"Цена_Товара_7_New",
+        "itemDescription":"Описание_Товара_7",
+        "itemDescription2": "Описание2_Товара_7"
+    },
+    {
+        "itemTitle":"Товар8",
+        "itemPrice":"Цена_Товара_8",
+        "itemPriceNew":"Цена_Товара_8_New",
+        "itemDescription":"Описание_Товара_8",
+        "itemDescription2": "Описание2_Товара_8"
+    }
+]
